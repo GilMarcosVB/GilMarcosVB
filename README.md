@@ -1,17 +1,10 @@
 <div align="center">
-
-```
-█▀▀ █ █░░   █▀▄▀█ ▄▀█ █▀█ █▀▀ █▀█ █▀
-█▄█ █ █▄▄   █░▀░█ █▀█ █▀▄ █▄▄ █▄█ ▄█
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:0099ff&height=200&section=header&text=Gil%20Marcos&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20IA%20%7C%20Automação&descSize=20&descAlignY=75&descColor=a8d8ff" />
 </div>
 
 <div align="center">
 
-# Olá, eu sou o Gil Marcos! 👋
-
-**Estudante de Inteligência Artificial · Desenvolvedor Front-End · Marília, SP 🇧🇷**
+**Inteligência Artificial · Automação com Python · Dados · Marília, SP 🇧🇷**
 
 </div>
 
@@ -21,38 +14,48 @@
 
 - 🎓 Cursando **Inteligência Artificial** na faculdade
 - 💻 Técnico em **Informática para Internet (Mobile)**
-- 🚀 Apaixonado por desenvolvimento e pelo impacto da tecnologia no dia a dia
-- 🎮 Nas horas vagas: jogos NFT e explorar o universo Web3
+- 🐍 Uso **Python** no dia a dia — automações, scripts e análise de dados
+- 📊 Área de **Dados** — Big Data, arquivos estruturados e semiestruturados
+- 🤖 Entusiasta de **IA** e como ela pode automatizar processos do mundo real
+- 🎮 Nas horas vagas: jogos NFT e universo Web3
 - 📍 Marília, SP — Brasil
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
+**Automação & Dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Web & Mobile**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
 ### 📌 Projeto em Destaque
 
 #### 🏋️ [SiteDaAcademia](https://github.com/GilMarcosVB/SiteDaAcademia)
-> Site completo desenvolvido para uma academia, com foco em layout responsivo e experiência do usuário.  
+> Site completo para uma academia com layout responsivo e experiência do usuário.  
 > **Stack:** Laravel · Blade · HTML · CSS
 
 ---
 
-### 🤖 Foco atual em IA
+### 🤖 O que estou estudando agora
 
-Estou aprofundando meus conhecimentos em:
-- Machine Learning e fundamentos de IA
-- Integração de modelos inteligentes em aplicações web
-- Desenvolvimento mobile com Dart/Flutter
+- 🐍 **Automação com Python** — scripts, bots e tarefas repetitivas no piloto automático
+- 📦 **Big Data** — processamento de grandes volumes de dados
+- 🗂️ **Arquivos estruturados e semiestruturados** — CSV, JSON, XML, Parquet
+- 📊 **Power BI** — dashboards e relatórios interativos
+- 🧠 **IA aplicada** — como usar modelos de linguagem e machine learning no mundo real
 
 ---
 
@@ -74,8 +77,6 @@ Estou aprofundando meus conhecimentos em:
 
 </div>
 
----
-
 <div align="center">
-  <sub>💡 "A inteligência artificial não substitui a inteligência humana — ela a amplifica."</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:003366&height=120&section=footer" />
 </div>
