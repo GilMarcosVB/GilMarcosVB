@@ -45,6 +45,10 @@
 > Site completo para uma academia com layout responsivo e experiência do usuário.  
 > **Stack:** Laravel · Blade · HTML · CSS
 
+
+#### 🤖 [Desafio Petbot — Automação com Pandas](https://github.com/GilMarcosVB/Tratamento-de-dados)
+> Desafio técnico para vaga de automação com IA. Validação, classificação e tratamento de dados automatizado.  
+> **Stack:** Python · Pandas
 ---
 
 ### 📚 Atualmente estudando
