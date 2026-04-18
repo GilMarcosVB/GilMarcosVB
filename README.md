@@ -1,34 +1,81 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
-</a>
-<br>
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gil;I'm+a+Front+End+Developer;Be+Welcome!+ツ)
-<br>
+```
+█▀▀ █ █░░   █▀▄▀█ ▄▀█ █▀█ █▀▀ █▀█ █▀
+█▄█ █ █▄▄   █░▀░█ █▀█ █▀▄ █▄▄ █▄█ ▄█
+```
 
- ## My networks:<br>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-marcos-b3036720b/) 
-
-![GIl GitHub stats](https://github-readme-stats.vercel.app/api?username=GilMarcosVB&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilMarcosVB&layout=compact)](https://github.com/GilMarcosVB/github-readme-stats)
-
-## Technologies I like and am studying:
-
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
-</a> 
+<div align="center">
 
-**<h3><p align="center">Profile views</p></h3>**
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/GilMarcosVB/count.svg"/>
-</p>
+# Olá, eu sou o Gil Marcos! 👋
 
+**Estudante de Inteligência Artificial · Desenvolvedor Front-End · Marília, SP 🇧🇷**
 
+</div>
+
+---
+
+### 🧠 Sobre mim
+
+- 🎓 Cursando **Inteligência Artificial** na faculdade
+- 💻 Técnico em **Informática para Internet (Mobile)**
+- 🚀 Apaixonado por desenvolvimento e pelo impacto da tecnologia no dia a dia
+- 🎮 Nas horas vagas: jogos NFT e explorar o universo Web3
+- 📍 Marília, SP — Brasil
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+---
+
+### 📌 Projeto em Destaque
+
+#### 🏋️ [SiteDaAcademia](https://github.com/GilMarcosVB/SiteDaAcademia)
+> Site completo desenvolvido para uma academia, com foco em layout responsivo e experiência do usuário.  
+> **Stack:** Laravel · Blade · HTML · CSS
+
+---
+
+### 🤖 Foco atual em IA
+
+Estou aprofundando meus conhecimentos em:
+- Machine Learning e fundamentos de IA
+- Integração de modelos inteligentes em aplicações web
+- Desenvolvimento mobile com Dart/Flutter
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GilMarcosVB&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilMarcosVB&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-marcos-b3036720b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GilMarcosVB)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 "A inteligência artificial não substitui a inteligência humana — ela a amplifica."</sub>
+</div>
