@@ -55,6 +55,7 @@
 
 | Curso | Plataforma | Área |
 |---|---|---|
+| Inglês — A1 até B2 | Fisk |
 | Fundamentos de Linguagem Python — Do Básico a Aplicações de IA | Data Science Academy | Python & IA |
 | Inteligência Artificial | Faculdade | IA & Machine Learning |
 | Análise de Dados e IA | Alura · Imersão Santander | Dados & Visualização |
