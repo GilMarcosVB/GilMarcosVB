@@ -53,7 +53,8 @@
 |---|---|---|
 | Fundamentos de Linguagem Python — Do Básico a Aplicações de IA | Data Science Academy | Python & IA |
 | Inteligência Artificial | Faculdade | IA & Machine Learning |
-| Excel + Power BI | Alura | Dados & Visualização |
+| Análise de Dados e IA | Alura · Imersão Santander | Dados & Visualização |
+| Bootcamp TOTVS — Engenharia de Dados e ML | Dio | Engenharia de Dados & ML
 
 ---
 
