@@ -14,8 +14,8 @@
 
 - 🎓 Cursando **Inteligência Artificial** na faculdade
 - 💻 Técnico em **Informática para Internet (Mobile)**
-- 🐍 Uso **Python** no dia a dia — automações, scripts e análise de dados
-- 📊 Área de **Dados** — Big Data, arquivos estruturados e semiestruturados
+- 🐍 Aprendendo **Python** com foco em automação e aplicações de IA
+- 📊 Iniciando na área de **Dados** — Power BI, Excel e análise de dados
 - 🤖 Entusiasta de **IA** e como ela pode automatizar processos do mundo real
 - 🎮 Nas horas vagas: jogos NFT e universo Web3
 - 📍 Marília, SP — Brasil
@@ -27,8 +27,6 @@
 **Automação & Dados**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -49,13 +47,13 @@
 
 ---
 
-### 🤖 O que estou estudando agora
+### 📚 Atualmente estudando
 
-- 🐍 **Automação com Python** — scripts, bots e tarefas repetitivas no piloto automático
-- 📦 **Big Data** — processamento de grandes volumes de dados
-- 🗂️ **Arquivos estruturados e semiestruturados** — CSV, JSON, XML, Parquet
-- 📊 **Power BI** — dashboards e relatórios interativos
-- 🧠 **IA aplicada** — como usar modelos de linguagem e machine learning no mundo real
+| Curso | Plataforma | Área |
+|---|---|---|
+| Fundamentos de Linguagem Python — Do Básico a Aplicações de IA | Data Science Academy | Python & IA |
+| Inteligência Artificial | Faculdade | IA & Machine Learning |
+| Excel + Power BI | Alura | Dados & Visualização |
 
 ---
 
